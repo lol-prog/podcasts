@@ -1,0 +1,1292 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Fatman on Batman / Fatman Beyond</title>
+    <link>https://soundcloud.com/fatmanonbatman</link>
+    <description>Unofficial feed of Fatman on Batman / Fatman Beyond podcast</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://lol-prog.github.io/podcasts/logo-fatman.jpg</url>
+      <title>Fatman on Batman / Fatman Beyond</title>
+      <link>https://soundcloud.com/fatmanonbatman</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Thu, 07 Dec 2023 00:19:31 +0000</lastBuildDate>
+    <item>
+      <title>Fatman on Batman 255</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-255-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 12 Sep 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 254</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-254-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 11 Sep 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 253</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-253-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 10 Sep 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 252</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-252-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 09 Sep 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 251</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-251-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 08 Sep 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 250</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-250-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 07 Sep 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 249</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-249-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 06 Sep 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 248</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-248-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 05 Sep 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 247</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-247-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 04 Sep 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 246</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-246-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 03 Sep 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 245</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-245-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 02 Sep 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 244</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-244-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 243</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-243-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 31 Aug 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 242</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-242-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 30 Aug 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 241</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-241-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 29 Aug 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 240</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-240-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 28 Aug 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 239</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-239-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 27 Aug 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 238</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-238-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 26 Aug 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 237</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-237-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 25 Aug 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 236</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-236-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 24 Aug 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 235</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-235-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Aug 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 234</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-234-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 22 Aug 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 233</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fmbeyond-233-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 21 Aug 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 232</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-232-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 20 Aug 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 231</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-231-premium2.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 19 Aug 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 230</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-230-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 18 Aug 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 229</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-229-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 17 Aug 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 228</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-228-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 16 Aug 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 227</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-227-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 15 Aug 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 226</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-226-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 14 Aug 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 225</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-225-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 13 Aug 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 224</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-224-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 12 Aug 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 223</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-223-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 11 Aug 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 222</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-222-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 10 Aug 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 221</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-221-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 09 Aug 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 220</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-220-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 08 Aug 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 219</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-219-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Aug 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 218</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-218-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 06 Aug 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 217</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-217-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 05 Aug 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 216</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-216-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 04 Aug 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 215</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-215-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 03 Aug 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 214</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-214-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 02 Aug 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 213</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-213-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 212</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-212-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 31 Jul 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 211</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-211-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 30 Jul 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 210</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-210-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 29 Jul 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 209</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-209-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 28 Jul 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 208</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-208-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 27 Jul 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 207</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-207-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 26 Jul 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 206</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-206-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 25 Jul 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 205</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-205-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 24 Jul 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 204</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-204-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 23 Jul 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 203</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-203-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 22 Jul 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 202</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-202-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 21 Jul 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 201</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-201-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 20 Jul 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 200</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-200-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 19 Jul 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 199</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-199-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 18 Jul 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 198</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodcast/Fat+Man+on+Batman/fatman-198-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 17 Jul 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 197</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-197-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 16 Jul 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 196</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-196-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 15 Jul 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 195</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-195-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 14 Jul 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 194</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-194-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 13 Jul 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 193</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-193-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 12 Jul 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 192</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-192-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 11 Jul 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 191</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-191-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 10 Jul 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 190</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-190-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 09 Jul 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 189</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-189-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 08 Jul 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 188</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-188-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 07 Jul 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 187</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-187-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 06 Jul 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 186</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-186-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 05 Jul 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 185</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-185-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 04 Jul 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 184</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-184-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 03 Jul 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 183</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-183-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 02 Jul 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 182</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-182-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 181</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-181-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 30 Jun 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 180</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-180-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 29 Jun 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 179</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-179-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 28 Jun 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 178</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-178-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 27 Jun 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 177</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-177-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 26 Jun 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 176</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-176-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 25 Jun 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 175</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-175-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 24 Jun 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 174</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-174-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 23 Jun 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 173</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-173-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 22 Jun 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 172</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-172-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 21 Jun 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 171</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-171-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 20 Jun 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 170</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-170-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Jun 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 169</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-169-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 18 Jun 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 168</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-168-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 17 Jun 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 167</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-167-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 16 Jun 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 166</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-166-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 15 Jun 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 165</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-165-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 14 Jun 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 164</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-164-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 13 Jun 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 163</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-163-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 12 Jun 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 162</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-162-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 11 Jun 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 161</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-161-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 10 Jun 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 160</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-160-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 09 Jun 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 159</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-159-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 08 Jun 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 158</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-158-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 07 Jun 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 157</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-157-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 06 Jun 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 156</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-156-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 05 Jun 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 155</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-155-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 04 Jun 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 154</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-154-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 03 Jun 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 153</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-153-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 02 Jun 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 152</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-152-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 151</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-151-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 31 May 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 150</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-150-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 30 May 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 149</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-149-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 29 May 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 148</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-148-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 28 May 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 147</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-147-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 27 May 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 146</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-146-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 26 May 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 145</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-145-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 25 May 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 144</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-144-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 24 May 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 143</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-143-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 23 May 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 142</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-142-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 22 May 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 141</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-141-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 21 May 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 140</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-140-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 20 May 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 139-V2</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-139-V2-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 19 May 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 138</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-138-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 18 May 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 137</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-137-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 17 May 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 136</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-136-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 16 May 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 135</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-135-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 15 May 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 134</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-134-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 14 May 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 133-V2</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-133-V2-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 13 May 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 132</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-132-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 12 May 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 131</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-131-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 11 May 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 130</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-130-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 10 May 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 129</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-129-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 09 May 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 128</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-128-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 08 May 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 127</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-127-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 07 May 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 126</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-126-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 06 May 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 125</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-125-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 05 May 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 124</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-124-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 04 May 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 123</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-123-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 03 May 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 122</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-122-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 02 May 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 121</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-121-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 120</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-120-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 30 Apr 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 119</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-119-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 29 Apr 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 118</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-118-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 28 Apr 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 117</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-117-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 27 Apr 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 116</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-116-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 26 Apr 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 115</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-115-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 25 Apr 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 114</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-114-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 24 Apr 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 113</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-113-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 23 Apr 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 112</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-112-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 22 Apr 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 111</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-111-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 21 Apr 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 110</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-110-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 20 Apr 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 109</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-109-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 19 Apr 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 108</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-108-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 18 Apr 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 107</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-107-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 17 Apr 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 106</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-106-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 16 Apr 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 105</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-105-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 15 Apr 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 104</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-104-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 14 Apr 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 103</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-103-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 13 Apr 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 102</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-102-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 12 Apr 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 101</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-101-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 11 Apr 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 100</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-100-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 10 Apr 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 099</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-099-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 09 Apr 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 098</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-098-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 08 Apr 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 097</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-097-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 07 Apr 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 096</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-096-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 06 Apr 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 095</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-095-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 05 Apr 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 094</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-094-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 04 Apr 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 093</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-093-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 03 Apr 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 092</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-092-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 02 Apr 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 091</title>
+      <enclosure url="https://s3.amazonaws.com/stitcher.assets/smodmp3/fatman/fatman-091-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 090</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-090-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 31 Mar 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 089</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-089-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 30 Mar 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 088</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-088-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 29 Mar 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 087</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-087-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 28 Mar 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 086</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-086-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 27 Mar 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 085</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-085-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 26 Mar 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 084</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-084-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 25 Mar 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 083</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-083-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 24 Mar 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 082</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-082-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 23 Mar 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 081</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-081-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 22 Mar 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 080</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-080-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 21 Mar 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 079</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-079-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 20 Mar 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 078</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-078-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 19 Mar 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 077</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-077-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 18 Mar 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 076</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-076-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 17 Mar 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 075</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-075-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 16 Mar 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 074</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-074-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 15 Mar 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 073</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-073-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 14 Mar 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 072</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-072-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 13 Mar 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 071</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-071-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 12 Mar 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 070</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-070-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 11 Mar 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 069</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-069-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 10 Mar 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 068</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-068-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 09 Mar 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 067</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-067-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 08 Mar 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 066</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-066-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 07 Mar 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 065</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-065-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 06 Mar 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 064</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-064-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 05 Mar 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 063</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-063-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 04 Mar 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 062</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-062-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 03 Mar 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 061</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-061-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 02 Mar 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 060</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-060-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 059</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-059-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 28 Feb 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 058</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-058-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 27 Feb 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 057</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-057-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 26 Feb 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 056</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-056-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 25 Feb 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 055</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-055-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 24 Feb 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 054</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-054-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 23 Feb 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 053</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-053-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 22 Feb 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 052</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-052-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 21 Feb 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 051</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-051-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 20 Feb 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 050</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-050-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 19 Feb 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 049</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-049-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 18 Feb 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 048</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-048-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 17 Feb 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 047</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-047-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 16 Feb 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 046</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-046-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 15 Feb 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 045</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-045-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 14 Feb 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 044</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-044-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 13 Feb 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 043</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-043-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 12 Feb 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 042</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-042-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 11 Feb 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 041</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-041-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 10 Feb 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 040</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-040-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 09 Feb 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 039</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-039-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 08 Feb 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 038</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-038-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 07 Feb 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 037</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-037-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 06 Feb 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 036</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-036-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 05 Feb 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 035</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-035-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 04 Feb 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 034</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-034-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 03 Feb 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 033</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-033-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 02 Feb 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 032</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-032-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 01 Feb 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 031</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-031-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 31 Jan 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 030</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-030-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 30 Jan 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 029</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-029-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 29 Jan 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 028</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-028-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 28 Jan 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 027</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-027-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 27 Jan 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 026</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-026-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 26 Jan 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 025</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-025-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 25 Jan 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 024</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-024-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 24 Jan 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 023</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-023-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 23 Jan 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 022</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-022-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 22 Jan 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 021</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-021-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 21 Jan 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 020</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-020-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 20 Jan 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 019</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-019-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 19 Jan 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 018</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-018-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 18 Jan 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 017</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-017-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 17 Jan 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 016</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-016-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 16 Jan 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 015</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-015-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 15 Jan 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 014</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-014-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 14 Jan 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 013</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-013-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 13 Jan 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 012</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-012-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 12 Jan 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 011</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-011-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 11 Jan 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 010</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-010-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 10 Jan 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 009</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-009-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 09 Jan 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 008</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-008-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 08 Jan 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 007</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-007-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 07 Jan 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 006</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-006-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 06 Jan 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 005</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-005-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 05 Jan 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 004</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-004-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 04 Jan 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 003</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-003-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 03 Jan 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 002</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-002-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 02 Jan 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fatman on Batman 001</title>
+      <enclosure url="http://cloudfront.assets.stitcher.com/smodmp3/fatman/fatman-001-premium.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
